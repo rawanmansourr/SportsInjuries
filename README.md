@@ -1,6 +1,6 @@
 # Runners Injury Prediction 
 > <p>Staying injury free is a major factor for success in sports. Our purpose was to use machine learning for the prediction of injuries in runners, based on detailed training logs.
-  <br>
+  <br> <br> <br>
 <b>Design</b>
 The project will determine whether an Runner has injured or not. Data cleansing and Exploration were done before testing and evaluating models.
   <br>
