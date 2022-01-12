@@ -18,7 +18,7 @@ A few classification models were chosen to predict and classify injury.<br>
 •	Extreme Gradient Boosting(XGBoost)<br>
 <br><br>
 <b>Tools</b><br>
-jupyter nootbook with some DS libraries such as pandas and numpy to maipulate the data, matplotlib and Matplotlib to visulalize the data and scikit learn for model for realted libraries.
+jupyter nootbook with some DS libraries such as pandas and numpy to maipulate the data, matplotlib and seaborn to visulalize the data and scikit learn for model for realted libraries.
   <br>
 </p>
 
